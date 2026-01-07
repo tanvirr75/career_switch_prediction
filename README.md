@@ -1,5 +1,8 @@
 # Career Switch Prediction
 
+[![View on nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/tanvirr75/career_switch_prediction/blob/main/CSE422_career_switch_prediction.ipynb)
+
+
 **Author**
 - Tanvirul Hoque 
 
